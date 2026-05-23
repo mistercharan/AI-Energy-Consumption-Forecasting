@@ -1,0 +1,6 @@
+MODEL EVALUATION METRICS
+========================================
+RMSE  : 0.4664 kWh
+MAE   : 0.3208 kWh
+R2    : 0.5925
+MAPE  : 44.51%
